@@ -12,6 +12,8 @@ public class AppList {
     public AppList() {
         mList.clear();
         mList.add(QianJi.getInstance());
+        //添加ordinary记账
+        mList.add(Ordinary.getInstance());
         /*
          * 请在此处新增你的记账app
          * 相关文档请参考：

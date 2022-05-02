@@ -127,6 +127,11 @@ public class AppManager {
         bundle.putString("appPackage", "com.mutangtech.qianji");
         bundle.putInt("appIcon", 0);
         bundle.putString("appAsync", "");
+//        Bundle bundle = new Bundle();
+//        bundle.putString("appName", "Ordinary°");
+//        bundle.putString("appPackage", "com.sk.ordinary");
+//        bundle.putInt("appIcon", 0);
+//        bundle.putString("appAsync", "");
         return bundle;
     }
 

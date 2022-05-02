@@ -59,6 +59,7 @@ android {
         //noinspection DataBindingWithoutKapt
        // dataBinding = true
     }
+    ndkVersion '21.4.7075529'
 }
 
 dependencies {
